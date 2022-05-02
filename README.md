@@ -4,7 +4,7 @@
 ### 👓 𝙰𝚋𝚘𝚞𝚝 𝚖𝚎
 
 Hi there <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="25px">     
-I'm a web developer at Nantes since 2019 who also love video games. I'm actually experimenting making games and assets for it.
+I'm a web developer since 2019 who also love video games. I'm actually experimenting making games and assets for it.
 
 
 ### 📚 𝚂𝚔𝚒𝚕𝚕𝚜
