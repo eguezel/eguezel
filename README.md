@@ -1,6 +1,5 @@
 <img src="https://zupimages.net/up/22/17/ckzk.png" width="100%" />
 
-
 ### 👓 𝙰𝚋𝚘𝚞𝚝 𝚖𝚎
 
 Hi there 👋    
@@ -37,3 +36,5 @@ I'm a web developer since 2019 who also love video games. I'm actually experimen
 		<img src="https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 	</a>
 </p>
+
+[![@elisecroft's Holopin board](https://holopin.io/api/user/board?user=elisecroft)](https://holopin.io/@elisecroft)
