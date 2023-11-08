@@ -23,7 +23,7 @@ I'm a web developer since 2019 who also love video games. I'm actually experimen
 
 ### 🗂️ 𝚂𝚘𝚖𝚎 𝚙𝚛𝚘𝚓𝚎𝚝𝚜
 
-⚙️ Under constructions, most of my contributions are on private repository or/and on GitLab.
+⚙️ Under constructions, most of my contributions are on private repository on GitLab.
 
 
 ### 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎
