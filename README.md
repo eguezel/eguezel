@@ -23,8 +23,11 @@ I'm a web developer since 2019 who also love video games. I'm actually experimen
 
 ### 🗂️ 𝚂𝚘𝚖𝚎 𝚙𝚛𝚘𝚓𝚎𝚝𝚜
 
-⚙️ Under constructions, most of my contributions are on private repository on GitLab.
+⚙️ Under constructions, most of my contributions are on private repository on GitLab.   
 
+<a href="https://www.eguezel.itch.io">
+	<img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white">
+</a>
 
 ### 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎
 <p>
